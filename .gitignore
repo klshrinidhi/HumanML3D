@@ -1,0 +1,11 @@
+.vscode/
+__pycache__/
+HumanML3D/texts/
+HumanML3D/new_joints
+HumanML3D/new_joint_vecs
+HumanML3D/*.txt
+amass_data
+pose_data
+body_models
+joints
+human_body_prior/
