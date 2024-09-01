@@ -5,6 +5,7 @@ HumanML3D/new_joints
 HumanML3D/new_joint_vecs
 HumanML3D/*.txt
 amass_data
+beat2_data
 pose_data
 body_models
 joints
