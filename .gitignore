@@ -7,6 +7,14 @@ HumanML3D/*.txt
 amass_data
 beat2_data
 pose_data
+pose_data_amass
+pose_data_beat2
+joints_amass
+joints_beat2
+joints_amass_beat2
+HumanML3D_amass
+HumanML3D_beat2
+HumanML3D_amass_beat2
 body_models
 joints
 human_body_prior/
